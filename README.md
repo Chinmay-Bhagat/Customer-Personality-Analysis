@@ -1,2 +1,0 @@
-# Customer-Personality-Analysis
-This is based on a dataset of customers having some the personal details and their purchasing details with a company. This projects includes Machine Learning(KMeans Clustering) and Python libraries such as Matplotlib, Seaborn, Pandas, SKlearn, numpy, etc. This Data Analysis project is used to analyse the behaviour of the customers towards the company and how the company can improve on the basis of the analysis.
